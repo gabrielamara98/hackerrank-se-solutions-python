@@ -1,0 +1,2 @@
+# hackerrank-se-solutions
+.
