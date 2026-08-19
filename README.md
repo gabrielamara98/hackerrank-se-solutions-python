@@ -1,4 +1,4 @@
-# 🧑‍💻 HackerRank Solutions in Python :🐍
+# 🧑‍💻 HackerRank Solutions in Python 🐍
 
 On this repository you will find all the solutions for the 53 exercises from Hacker Rank Software Engineer Prep Kit using Python
 
