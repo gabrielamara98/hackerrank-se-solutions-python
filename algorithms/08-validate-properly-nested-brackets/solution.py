@@ -1,9 +1,4 @@
-text = "(){}[]"
-
-
 def areBracketsProperlyMatched(code_snippet):
-    if len(code_snippet) % 2 == 1:
-        return 0
     stack = []
     for letter in code_snippet:
         stack_top = ''
@@ -25,7 +20,3 @@ def checkBrackets(initial,end):
     if initial == '{' and end == '}': return True
     if initial == '[' and end == ']': return True
     return False
-
-    
-
-print(areBracketsProperlyMatched(text))
