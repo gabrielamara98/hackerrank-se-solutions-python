@@ -2,7 +2,7 @@
 
 On this repository you will find all the solutions for the 53 exercises from Hacker Rank Software Engineer Prep Kit using Python
 
-## 📊 Progress (08/53)
+## 📊 Progress (09/53)
 
 | # | Problem | Difficulty | Solution & Notes | Status |
 | :-: | :--- | --- | :-: | :-:|
@@ -14,3 +14,4 @@ On this repository you will find all the solutions for the 53 exercises from Hac
 | 06 | [Find First Occurrence](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/first-occurrence-in-event-code-log/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/06-find-first-occurrence/) | ✅ Done
 | 07 | [Maximum Number of Non-Overlapping Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/maximum-non-overlapping-intervals/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/07-maximum-number-of-non-overlapping-intervals/) | ✅ Done
 | 08 | [Validate Properly Nested Brackets](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/validate-properly-nested-brackets/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/08-validate-properly-nested-brackets/) | ✅ Done
+| 09 | [Min-Tracking Stack Implementation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/min-tracking-stack/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/09-min-tracking-stack-implementation/) | ✅ Done
