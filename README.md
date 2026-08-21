@@ -2,7 +2,7 @@
 
 On this repository you will find all the solutions for the 53 exercises from Hacker Rank Software Engineer Prep Kit using Python
 
-## 📊 Progress (06/53)
+## 📊 Progress (07/53)
 
 | # | Problem | Difficulty | Solution & Notes | Status |
 | :-: | :--- | --- | :-: | :-:|
@@ -12,4 +12,4 @@ On this repository you will find all the solutions for the 53 exercises from Hac
 | 04 | [Check for Non-Identical String Rotation](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-non-identical-string-rotation/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/04-check-for-non-identical-string-rotation/) | ✅ Done
 | 05 | [Target Index Search](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/05-target-index-search/) | ✅ Done
 | 06 | [Find First Occurrence](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/first-occurrence-in-event-code-log/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/06-find-first-occurrence/) | ✅ Done
-| 07 | [Maximum Number of Non-Overlapping Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/maximum-non-overlapping-intervals/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/07-maximum-number-of-non-overlapping-intervals/) | ⏱️ In Progress
+| 07 | [Maximum Number of Non-Overlapping Intervals](https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/maximum-non-overlapping-intervals/problem?isFullScreen=true) | 🟢 Easy | [View Solution](./algorithms/07-maximum-number-of-non-overlapping-intervals/) | ✅ Done
